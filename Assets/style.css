@@ -10,7 +10,7 @@ a {
     margin: auto;
     width: 500px;
     border-radius : 5px;
-    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.3);
     padding: 20px 200px 50px 200px;
     align-content: center;
     text-align: justify;
@@ -22,11 +22,11 @@ a {
     width: 200px;
     border-radius : 6px;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
-    padding : 5px;
+    padding : 0px;
 }
 .card img {
     width: 100%;
-    border-radius: 6px;
+    border-radius: 6px 6px 0px 0px;
     margin: 0;
 }
 
